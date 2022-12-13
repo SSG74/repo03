@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\bin\Debug\net7.0\home041.exe
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\bin\Debug\net7.0\home041.deps.json
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\bin\Debug\net7.0\home041.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\bin\Debug\net7.0\home041.dll
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\bin\Debug\net7.0\home041.pdb
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\obj\Debug\net7.0\home041.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\obj\Debug\net7.0\home041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\obj\Debug\net7.0\home041.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\obj\Debug\net7.0\home041.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\obj\Debug\net7.0\home041.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\obj\Debug\net7.0\home041.dll
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\obj\Debug\net7.0\refint\home041.dll
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\obj\Debug\net7.0\home041.pdb
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\obj\Debug\net7.0\home041.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Seminar04\Home04\home041\obj\Debug\net7.0\ref\home041.dll
